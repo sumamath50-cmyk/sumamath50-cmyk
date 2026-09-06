@@ -18,7 +18,7 @@ Programming: **SQL, PySpark, Python** and
 ### 🧠 Tech Stack
 ![Azure](https://skillicons.dev/icons?i=azure) ![Python](https://skillicons.dev/icons?i=python) ![Git](https://skillicons.dev/icons?i=git)
 |--------|
-| <img width="594" height="52" alt="Image" src="https://github.com/user-attachments/assets/e8b8e201-c95f-4229-a761-910a53a3c5bf" />| 
+| <img width="594" height="52" alt="Image" src="https://github.com/user-attachments/assets/e8b8e201-c95f-4229-a761-910a53a3c5bf" /> | 
 
 ### 🏅Microsoft Certifications
 | <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/bdcb39be-edfc-4889-91bb-9b595f0e6525" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/bdcb39be-edfc-4889-91bb-9b595f0e6525" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/ec8fc7d9-1711-4b47-8d31-e3366538ef6a" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/6c901e20-c718-45dc-abae-52072dbe18d0" />|
