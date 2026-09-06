@@ -18,10 +18,10 @@ Programming: **SQL, PySpark, Python** and
 ### 🧠 Tech Stack
 ![Azure](https://skillicons.dev/icons?i=azure) ![Python](https://skillicons.dev/icons?i=python) ![Git](https://skillicons.dev/icons?i=git)
 |--------|
-| <img width="594" height="52" alt="Image" src="https://github.com/user-attachments/assets/e8b8e201-c95f-4229-a761-910a53a3c5bf" /> | 
+|<img width="593" height="47" alt="Image" src="https://github.com/user-attachments/assets/bffcab67-7127-47bb-8aaf-5a07a64d1334" />|
 
 ### 🏅Microsoft Certifications
-| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/bdcb39be-edfc-4889-91bb-9b595f0e6525" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/bdcb39be-edfc-4889-91bb-9b595f0e6525" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/ec8fc7d9-1711-4b47-8d31-e3366538ef6a" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/6c901e20-c718-45dc-abae-52072dbe18d0" />|
+| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/3ddf7ac8-0e5f-402a-8fb8-2fed803c8ba5" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/3ddf7ac8-0e5f-402a-8fb8-2fed803c8ba5" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/ea0aca6b-e80e-4d04-909b-16f2fd17131b" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/3ddf7ac8-0e5f-402a-8fb8-2fed803c8ba5" />|
 |--------|--------|--------|--------|
 | Azure Data Fundamentals DP-900| Azure AI Fundamentals AI-900| Azure Administrator Associate AZ-104| Azure Fundamentals AZ-900 |
 
