@@ -20,7 +20,7 @@ Programming: **SQL, PySpark, Python** and
 |--------|
 |<img width="593" height="47" alt="Image" src="https://github.com/user-attachments/assets/bffcab67-7127-47bb-8aaf-5a07a64d1334" />|
 
-### 🏅Microsoft Certifications
+### 🏅 Microsoft Certifications
 | <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/3ddf7ac8-0e5f-402a-8fb8-2fed803c8ba5" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/3ddf7ac8-0e5f-402a-8fb8-2fed803c8ba5" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/ea0aca6b-e80e-4d04-909b-16f2fd17131b" />| <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/3ddf7ac8-0e5f-402a-8fb8-2fed803c8ba5" />|
 |--------|--------|--------|--------|
 | Azure Data Fundamentals DP-900| Azure AI Fundamentals AI-900| Azure Administrator Associate AZ-104| Azure Fundamentals AZ-900 |
