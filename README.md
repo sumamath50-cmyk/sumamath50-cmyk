@@ -2,7 +2,7 @@
 
 # <span style="background: linear-gradient(90deg, #0077ff, #00c6ff); -webkit-background-clip: text; color: transparent;">Suma Math</span>
 
-### Azure Data Engineer | Big Data | Cloud Analytics Engineer
+### Azure Data Engineer | ETL Engineer
 
 </div>
 
